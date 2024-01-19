@@ -1,5 +1,5 @@
 # CS50p
-## My solutions to assigments of [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+My solutions to weekly assigments for [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/).
 ## Table of Contents
 ### [Week 0](/Week%200%20-%20Functions) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 * [Indoor Voice](/Week%200%20-%20Functions/indoor.py)
