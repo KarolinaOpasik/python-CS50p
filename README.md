@@ -15,8 +15,8 @@ My solutions to weekly assigments for [CS50's Introduction to Programming with P
 * [Math Interpreter](/Week%201%20-%20Conditionals/interpreter.py)
 * [Meal Time](/Week%201%20-%20Conditionals/meal.py)
 
-### [Week 2] - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
-* [camelCase]
-* [Coke Machine]
-* [Just setting up my twttr]
-* [Nutrition Facts]
+### [Week 2](/Week%202%20-%20Loops) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
+* [camelCase](/Week%202%20-%20Loops/camel.py)
+* [Coke Machine](/Week%202%20-%20Loops/coke.py)
+* [Just setting up my twttr](/Week%202%20-%20Loops/twttr.py)
+* [Nutrition Facts](/Week%202%20-%20Loops/nutrition.py)
