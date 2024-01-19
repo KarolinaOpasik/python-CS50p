@@ -1,5 +1,5 @@
 # CS50p
-My solutions to weekly assigments for [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/).
+My solutions to weekly assignments for [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/).
 ## Table of Contents
 ### [Week 0](/Week%200%20-%20Functions) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
 * [Indoor Voice](/Week%200%20-%20Functions/indoor.py)
@@ -8,7 +8,7 @@ My solutions to weekly assigments for [CS50's Introduction to Programming with P
 * [Einstein](/Week%200%20-%20Functions/einstein.py)
 * [Tip Calculator](/Week%200%20-%20Functions/tip.py)
 
-### [Week 1](/Week%201%20-%20Conditionals)- [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
+### [Week 1](/Week%201%20-%20Conditionals) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
 * [Deep Thought](/Week%201%20-%20Conditionals/deep.py)
 * [Home Federal Savings Bank](/Week%201%20-%20Conditionals/bank.py)
 * [File Extensions](/Week%201%20-%20Conditionals/extensions.py)
