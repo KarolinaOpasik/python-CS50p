@@ -20,3 +20,16 @@ My solutions to weekly assignments for [CS50's Introduction to Programming with 
 * [Coke Machine](/Week%202%20-%20Loops/coke.py)
 * [Just setting up my twttr](/Week%202%20-%20Loops/twttr.py)
 * [Nutrition Facts](/Week%202%20-%20Loops/nutrition.py)
+
+### [Week 3](/Week%202%20-%20Exceptions) - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
+* [Fuel Gauge](/Week%203%20-%20Exceptions/fuel.py)
+* [Grocery List](/Week%203%20-%20Exceptions/grocery.py)
+* [Felipe’s Taqueria](/Week%203%20-%20Exceptions/taqueria.py)
+
+### [Week 4](/Week%202%20-%20Libraries) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
+* [Adieu, Adieu](/Week%204%20-%20Libraries/adieu.py)
+* [Bitcoin Price Index](/Week%204%20-%20Libraries/bitcoin.py)
+* [Emojize](/Week%204%20-%20Libraries/emojize.py)
+* [Frank, Ian and Glen’s Letters](/Week%204%20-%20Libraries/figlet.py)
+* [Guessing Game](/Week%204%20-%20Libraries/game.py)
+* [Little Professor](/Week%204%20-%20Libraries/professor.py)
